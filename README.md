@@ -125,7 +125,7 @@ After you're finished please remove all the comments and instructions!
 
 - Open the command prompt in the created directory.
 
-- On the terminal run this command git clone https://github.com/Osoro254Alex/Bookstore
+- On the terminal run this command git clone https://github.com/Osoro254Alex/Capstone3-World-Countries-.git
 
 - Go to the repository folder using command prompt cd Bookstore.
 
@@ -151,13 +151,13 @@ Example command:
 To make use of this project, kindly run any of the following commands.
 
 ```
-git clone https://github.com/Osoro254Alex/Bookstore.git
+git clone https://github.com/Osoro254Alex/Capstone3-World-Countries-.git
 ```
 
 or
 
 ```
-git clone git@github.com:Osoro254Alex/Bookstore.git
+git clone git@github.com:Osoro254Alex/Capstone3-World-Countries-.git
 ```
 ## **INSTALL**
 ```

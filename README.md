@@ -61,7 +61,7 @@ After you're finished please remove all the comments and instructions!
 
 >This React capstone project is about building a mobile web application to check a list of metrics  that you will create making use of React and Redux.
 
->In this simple React Web Application developed to display a list of countries and their details fetched from an API. the project makes use of key Reac features such as Redux, Thunk and Loggers.
+>In this simple React Web Application developed to display a list of countries and their details fetched from an API. the project makes use of key React features such as Redux, Thunk and Loggers.
 
 >**[World-Countries ]** is a simple project based on data from the globe. An API populates data about countries in a specific regioned and data is rendered through react functions.
 
@@ -108,7 +108,10 @@ After you're finished please remove all the comments and instructions!
 
 > Add a link to your deployed project.
 
-- [Live Demo Link](https://explore-the-world-countries.netlify.app/)
+- [Live web-app Link](https://explore-the-world-countries.netlify.app/)
+
+
+- **Video Link**
 
  https://loom.com/share/fe39b7534cec4cdd86d7c30ed409f5d9
 

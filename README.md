@@ -216,8 +216,7 @@ Feel free to check the [issues page](https://github.com/Osoro254Alex/Capstone3-W
 <!-- ACKNOWLEDGEMENTS -->
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
-
-## 🙏 [Nelson Sakwa](https://www.behance.net/sakwadesignstudio)
+- I would like to give Credit to 🙏 [Nelson Sakwa](https://www.behance.net/sakwadesignstudio) the [author of the original design](https://www.behance.net/gallery/31579789/Ballhead-App-(Free-PSDs)), as required by the [Creative Commons License](https://creativecommons.org/licenses/).
 - [Microverse](https://www.microverse.org/)
 - Thanks to the Microverse team for the great curriculum.
 - Hat tip to anyone whose code was used

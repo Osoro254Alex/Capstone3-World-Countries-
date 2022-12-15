@@ -218,6 +218,9 @@ Feel free to check the [issues page](https://github.com/Osoro254Alex/Capstone3-W
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 - [Microverse](https://www.microverse.org/)
+- Thanks to the Microverse team for the great curriculum.
+- Hat tip to anyone whose code was used
+- A great thanks to My coding partners, morning session team, and standup team Partners for their contributions.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

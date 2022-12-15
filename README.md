@@ -104,7 +104,7 @@ After you're finished please remove all the comments and instructions!
 
 > Add a link to your deployed project.
 
-- [Live Demo Link]()
+- [Live Demo Link](https://explore-the-world-countries.netlify.app/)
 
  https://loom.com/share/fe39b7534cec4cdd86d7c30ed409f5d9
 

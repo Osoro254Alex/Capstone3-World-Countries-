@@ -98,14 +98,14 @@ export default function renderWithProviders(
     ...renderOptions
   } = {},
 ) {
+  /* eslint-disable-next-line */
   const Wrapper = ({ children }) => {
-    /* eslint-disable-line */
     return (
       <BrowserRouter>
         <Provider store={store}>{children}</Provider>
       </BrowserRouter>
     );
-  }
+  };
   // Return all of RTL's query functions and an object with the store
   return { store, ...render(ui, { wrapper: Wrapper, ...renderOptions }) };
 }

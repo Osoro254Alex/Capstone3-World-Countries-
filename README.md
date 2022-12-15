@@ -217,6 +217,7 @@ Feel free to check the [issues page](https://github.com/Osoro254Alex/Capstone3-W
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
+## 🙏 [Nelson Sakwa](https://www.behance.net/sakwadesignstudio)
 - [Microverse](https://www.microverse.org/)
 - Thanks to the Microverse team for the great curriculum.
 - Hat tip to anyone whose code was used
